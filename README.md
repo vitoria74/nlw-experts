@@ -1,3 +1,3 @@
-# nlw-experts
+# NLW-experts
 
-Quiz sobre javascript feito durante o evento "nlw experts" da Rocketseat. O quiz possui 10 perguntas, todas sobre javascript, e contador para saber a quantidade de acertos.
+Quiz com 10 perguntas sobre javascript e contador para saber a quantidade de acertos.
