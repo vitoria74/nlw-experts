@@ -1,7 +1,7 @@
 # NLW-experts
 
 ## Sobre o projeto
-Quiz com 10 perguntas sobre javascript, com apenas uma resposta certa para cada pergunta, e contador para saber a quantidade de acertos. Como saber se acertou? O contador irá adicionar 1 a cada resposta correta.
+Quiz com 10 perguntas sobre javascript, com apenas uma resposta certa para cada pergunta, e contador para saber a quantidade de acertos. Como saber se acertou? O contador, que é a barra verde na parte inferior da tela, irá adicionar 1 a cada resposta correta.
 
 #
 
